@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+* {
+    @apply transition-all transition-discrete duration-150;
+}
+
+body {
+    @apply bg-blue-100 text-black;
+}
